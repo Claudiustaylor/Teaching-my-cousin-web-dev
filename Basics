@@ -13,3 +13,22 @@ index.html
   </p>
  </body>
 </html>
+
+
+//Adding in emphasis
+
+<p> 
+   Raindrops on <em> roses </em> <br>
+   Whiskers on kittens <br>
+   Bright copper kettles <br>
+   Warm woolen mittens
+</p>
+
+
+
+//Define a string as important
+
+<p>
+ Raindrops on <em> roses </em> <br>
+ Whiskers on <strong> kittens </strong>
+</p>
