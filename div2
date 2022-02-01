@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <body>
+   <div>
+    <h4> Sign Up </h4>
+    <button> Sign Up </button>
+   </div>
+   <div>
+    <h4> Log in </h4>
+    <button> Login </button>
+   </div>
+  </body>
+ </html>
