@@ -15,7 +15,7 @@ index.html
 </html>
 
 
-//Adding in emphasis
+<--Adding in emphasis-->
 
 <p> 
    Raindrops on <em> roses </em> <br>
@@ -26,7 +26,7 @@ index.html
 
 
 
-//Define a string as important
+<--Define a string as important-->
 
 <p>
  Raindrops on <em> roses </em> <br>
