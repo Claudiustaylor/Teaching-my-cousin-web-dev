@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+  <body>
+  <img src="/img/earth.png">. //Lets you access images from a local folder
+  </body>
+ </html>
