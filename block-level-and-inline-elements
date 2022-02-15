@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset= "UTF-8"
+    <title> Block Level Elements in HTML5 </title>
+  </head>
+  
+  <body>
+    <h1> This is a level one heading </h1>
+    <h2> This is a level two heading </h2>
+  
+     <div> This is a Logical Division</div> This text is directly after the logical division
+  <ul>
+  <li> This is an unordered list </li> 
+  </ul> 
+  </body>
+ 
+
+
+
+</html>
