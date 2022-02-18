@@ -1,0 +1,10 @@
+<!doctype html>
+
+<html>
+  <body>
+   <h4>Company Name</h4>
+   <input placeholder= "Email">
+   <br>
+   <input>
+  </body>
+</html>
