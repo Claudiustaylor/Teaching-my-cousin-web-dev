@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html>
+  <head>
+  
+    <meta charset= "UTF-8">
+    <title> Tables </title>
+    
+    
+  </head>
+  
+  <body>
+  
+    <table border = "1">
+    <caption> This is a table that describes the wealthiest sports players </caption>
+    <tr>
+    <th>Sport</th> <th>Player</th> <th>Money</th>
+    </tr>
+    
+    <tr>
+    <td>Soccer</td> <td>Ronaldo</td> <td>Rich</td>
+    </tr>
+    
+    <tr>
+    <td>Basketball</td> <td>Lebron</td> <td>Rich</td>
+    </tr>
+    
+    </table>
+  
+  </body>
+</html>
