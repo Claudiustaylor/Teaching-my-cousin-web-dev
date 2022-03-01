@@ -1,0 +1,4 @@
+console.log(27+3.5) //Prints 30.5
+console.log(2022-1969) //The number of years it's been since the 1969 moon landing
+console.log (65/240)
+console.log (0.2708*100)
