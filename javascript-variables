@@ -4,3 +4,7 @@ var numOfSlices = 8;
 
 console.log(favoriteFood);
 console.log(numOfSlices);
+
+
+const entree = 'Enchiladas';
+console.log (entree);
