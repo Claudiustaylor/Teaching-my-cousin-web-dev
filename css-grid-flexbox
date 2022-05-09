@@ -1,0 +1,21 @@
+.container {
+display: grid;
+grid-gap: 5px;
+grid-template-areas:
+"header header header header"
+"sidebar main main main"
+"sidebar photo photo button"
+"footer footer footer footer ";
+}
+
+.item {
+background-color: #96BCEF;
+text-align: center;
+padding: 20px;
+border-radius: 5px;
+}
+
+.header {
+
+grid-area: header;
+}
