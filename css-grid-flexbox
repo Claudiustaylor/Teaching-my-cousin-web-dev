@@ -19,3 +19,24 @@ border-radius: 5px;
 
 grid-area: header;
 }
+
+--------------------------------------------------------
+
+.grid-container {
+display: grid;
+grid-template: repeat(4, 1fr) / 1fr;
+}
+
+.display {
+header: flex;
+}
+
+.grid-item {
+backgroud-color: #D9E8FB;
+padding: 20px;
+margin-top: 2px;
+}
+
+a {
+  padding-left: 5px;
+  }
