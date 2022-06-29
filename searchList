@@ -1,0 +1,8 @@
+function searchList(numbers, targetNumber) {
+    for (var index = 0; index < numbers.length; index++) {
+        if (numbers[index] === targetNumber) {
+            return index;
+        }
+    }
+    return -1;
+}
