@@ -1,0 +1,10 @@
+var maxNum = -1;
+for (var i = 0; i < numbers.length; i++) {
+
+if (numbers[i] > maxNum) {
+
+maxNum = numbers[i];
+
+}
+
+}
